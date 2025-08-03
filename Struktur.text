@@ -1,0 +1,15 @@
+vinz-cull-shop/
+├── client/          # Frontend React
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   └── index.js
+├── server/          # Backend Node.js
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+├── package.json
+└── README.md
